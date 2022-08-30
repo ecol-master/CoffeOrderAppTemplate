@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoffeOrder</string>
+    <string name="result">Кофе %s %s</string>
+</resources>

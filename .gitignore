@@ -1,0 +1,21 @@
+# folders
+/.gradle
+/gradle
+/.idea
+/build
+
+# files
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/local.properties
+/settings.gradle
+
+# folder in app
+/app/libs
+/app/build
+/app/src/androidTest
+
+/app/proguard-rules.pro
+/app/build.gradle
